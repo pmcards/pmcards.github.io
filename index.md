@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+<img src="images/pmcardsheader.jpg" style="position:absolute;">
+
+## A set of cards with quick-to-adopt tools and practices from the different schools of project management
 
 ### Nice, clean, reading!
 

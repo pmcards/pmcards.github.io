@@ -1,9 +1,9 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
-url: "http://127.0.0.1:4000"
-baseurl: ""
+title: Project Management for Modern Teams | PM Cards
+tag_text: Project Management Cards
+description: A set of cards with quick-to-adopt tools and practices from the different schools of project management. For teams that want to co-create their way of working.
+url: "https://pmcards.github.io"
+baseurl: "https://pmcards.github.io"
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
@@ -11,3 +11,6 @@ font-awesome-include: true # make this false if you don't need font-awesome
 markdown: kramdown
 
 exclude: ["README.md"]
+
+gems:
+  - jekyll-sitemap
