@@ -276,22 +276,22 @@ ul.kf-slider li{
 }
 
 ul.kf-slider li:nth-child(2){
-  background-image: url(../images/card3.jpg);
+  background-image: url(../images/card2.jpg);
     -webkit-animation: xfade 16s 8s infinite;
     -moz-animation: xfade 16s 8s infinite;
     animation: xfade 16s 8s infinite;
 }
 
 ul.kf-slider li:nth-child(3){
-  background-image: url(../images/card4.jpg);
+  background-image: url(../images/card3.jpg);
     -webkit-animation: xfade 16s 4s infinite;
     -moz-animation: xfade 16s 4s infinite;
     animation: xfade 16s 4s infinite;
 }
 
 ul.kf-slider li:nth-child(4){
-  background-image: url(../images/card5.jpg);
+  background-image: url(../images/card4.jpg);
     -webkit-animation: xfade 16s 0s infinite;
-    -moz-animation: xfade 16s 4s infinite;
-    animation: xfade 16s 4s infinite;
+    -moz-animation: xfade 16s 0s infinite;
+    animation: xfade 16s 0s infinite;
 }
