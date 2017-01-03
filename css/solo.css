@@ -183,6 +183,8 @@ pre > code {
   text-align: center;
   width: 90%;
   transition: all 0.3s ease 0s;
+  text-decoration: none;
+  margin-bottom: 1.5rem;
 }
 
 .button:hover {
@@ -190,4 +192,8 @@ pre > code {
 	background-color: transparent;
 	cursor: pointer;
 	text-decoration: none;
+}
+
+a {
+  color: #173a64;
 }
