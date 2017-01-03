@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img src="images/pmcardsheader.jpg" style="position:absolute;">
-
 ## A set of cards with quick-to-adopt tools and practices from the different schools of project management
 
 ### Nice, clean, reading!
@@ -30,8 +28,6 @@ Simply add the following line anywhere in your markdown:
 </code></pre>
 
 and get a nice responsive sharing ribbon.
-
-{% include sharing.html %}
 
 Add this at the bottom, or the top, or between every other paragraph if you're desprate for social validation.
 
