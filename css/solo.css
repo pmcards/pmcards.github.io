@@ -14,7 +14,7 @@
 }
 
 html { font: 18px/1.6 'Open Sans', sans-serif; }
-body { margin: 2rem 0 5rem; color: #222; }
+body { margin: 2rem 0 3rem; color: #222; }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2.5rem 0 1.5rem -0.1rem;
@@ -196,4 +196,76 @@ pre > code {
 
 a {
   color: #173a64;
+}
+
+/** ANIMATION **/
+@-webkit-keyframes fade-out {
+  33% {
+    opacity: 1; }
+  66% {
+    opacity: 0; } 
+}
+@-moz-keyframes fade-out {
+  33% {
+    opacity: 1; }
+  66% {
+    opacity: 0; } 
+}
+@keyframes fade-out {
+  33% {
+    opacity: 1; }
+  66% {
+    opacity: 0; } 
+}
+
+ul.kf-slider, ul.kf-slider li
+{
+list-style-type: none;
+margin:0;
+padding:0;
+}
+
+ul.kf-slider li{ 
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:  50%;
+  z-index: 0;
+  opacity: 0;
+  /*-- Add animation --*/ 
+    -webkit-animation: fade-out 25s infinite both;
+    -moz-animation: fade-out 25s infinite both;
+    animation: fade-out 25s infinite both;
+  background-image: url(../images/card1.jpg);
+}
+
+ul.kf-slider li:nth-child(2){
+  background-image: url(../images/card2.jpg);
+    -webkit-animation-delay: 5s;
+    -moz-animation-delay: 5s;
+    animation-delay: 5s;
+}
+
+ul.kf-slider li:nth-child(3){
+  background-image: url(../images/card3.jpg);
+    -webkit-animation-delay: 10s;
+    -moz-animation-delay: 10s;
+    animation-delay: 10s;
+}
+
+ul.kf-slider li:nth-child(4){
+  background-image: url(../images/card4.jpg);
+    -webkit-animation-delay: 15s;
+    -moz-animation-delay: 15s;
+    animation-delay: 15s;
+}
+
+ul.kf-slider li:nth-child(5){
+  background-image: url(../images/card5.jpg);
+    -webkit-animation-delay: 20s;
+    -moz-animation-delay: 20s;
+    animation-delay: 20s;
 }

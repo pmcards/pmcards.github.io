@@ -20,9 +20,9 @@ We can also present these practices as individual strategies ("cards") that can 
 
 By clicking the button below, you can download the Project Management Cards: a set of 30 quick-to-adopt mindsets and tools extracted from the different PM methodologies. They're meant for teams that want to rethink or adapt their way of working.
 
-<center><a class="button" href="https://drive.google.com/file/d/0Bx7a4ezS_IRuUWVFZlZxN1RYdXM/view">Download the Project Management Cards (.pdf - 7 mb)</a></center>
+<center><a class="button" href="https://drive.google.com/file/d/0Bx7a4ezS_IRuUWVFZlZxN1RYdXM/view">Download the Project Management Cards<br>(.pdf - 7 mb)</a></center>
 
-There are even more uses and benefits for these cards. If you're interested, I've written all about them in this <a href="https://medium.com/@joaobraq">medium article</a>.
+There are even more uses for these cards. If you're interested, I've written all about them in this <a href="https://medium.com/@joaobraq">medium article</a>.
 
 The cards are avaliable under a creative commons license, which means you can make your own cards by downloading the editable version <a href="https://drive.google.com/drive/folders/0Bx7a4ezS_IRuRHhFTHpaNkwwYTg">here</a>. If you do so, please consider sharing them with me and with others! 
 
