@@ -255,9 +255,9 @@ ul.kf-slider li{
   z-index: 0;
   opacity: 0;
   /*-- Add animation --*/ 
-    -webkit-animation: xfade 20s 16s infinite;
-    -moz-animation: xfade 20s 16s infinite;
-    animation: xfade 20s 16s infinite;
+    -webkit-animation: xfade 16s 12s infinite;
+    -moz-animation: xfade 16s 12s infinite;
+    animation: xfade 16s 12s infinite;
   background-image: url(../images/card1.jpg);
 }
 
@@ -276,29 +276,22 @@ ul.kf-slider li{
 }
 
 ul.kf-slider li:nth-child(2){
-  background-image: url(../images/card2.jpg);
-    -webkit-animation: xfade 20s 12s infinite;
-    -moz-animation: xfade 20s 12s infinite;
-    animation: xfade 20s 12s infinite;
+  background-image: url(../images/card3.jpg);
+    -webkit-animation: xfade 16s 8s infinite;
+    -moz-animation: xfade 16s 8s infinite;
+    animation: xfade 16s 8s infinite;
 }
 
 ul.kf-slider li:nth-child(3){
-  background-image: url(../images/card3.jpg);
-    -webkit-animation: xfade 20s 8s infinite;
-    -moz-animation: xfade 20s 8s infinite;
-    animation: xfade 20s 8s infinite;
+  background-image: url(../images/card4.jpg);
+    -webkit-animation: xfade 16s 4s infinite;
+    -moz-animation: xfade 16s 4s infinite;
+    animation: xfade 16s 4s infinite;
 }
 
 ul.kf-slider li:nth-child(4){
-  background-image: url(../images/card4.jpg);
-    -webkit-animation: xfade 20s 4s infinite;
-    -moz-animation: xfade 20s 4s infinite;
-    animation: xfade 20s 4s infinite;
-}
-
-ul.kf-slider li:nth-child(5){
   background-image: url(../images/card5.jpg);
-    -webkit-animation: xfade 20s 0s infinite;
-    -moz-animation: xfade 20s 0s infinite;
-    animation: xfade 20s 0s infinite;
+    -webkit-animation: xfade 16s 0s infinite;
+    -moz-animation: xfade 16s 4s infinite;
+    animation: xfade 16s 4s infinite;
 }
