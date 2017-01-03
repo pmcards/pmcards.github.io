@@ -4,7 +4,7 @@ layout: default
 
 No project management methodology is perfect. 
 
-They are all bound to fail in certain circumstances, <b>but that's ok.</b> Delays happen, requirements change, and each methodology has its own ways of dealing with these things.
+They are all bound to fail in certain circumstances, <b>but that's ok.</b> Delays happen, requirements change, and each methodology has its own way of dealing with these things.
 
 <b>What's not ok</b> is how most of them have a common problem that they don't seem to care to solve: they are hard to master. It takes a long time to implement any methodology and an even longer time to change and adapt the practices that don't work. 
 
